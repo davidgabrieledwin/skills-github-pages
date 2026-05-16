@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+Title: Maritime Economics, Startups, Policies, Nation Building!
 ---
